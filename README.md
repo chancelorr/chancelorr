@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @chancelorr
-- 👀 I’m interested in geophysics
 - 🌱 I’m currently learning geophysics
-- 💞️ I’m looking to collaborate on geophysics
 - 📫 How to reach me ccroberts@ucsd.edu
 
 <!---
