@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @chancelorr
-- 🌱 I’m currently learning geophysics
+- 🌱 I’m currently learning geophysics at SIO/IGPP
 - 📫 How to reach me ccroberts@ucsd.edu
 
 <!---
