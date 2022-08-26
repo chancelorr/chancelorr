@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @chancelorr
+- 👋 Hi, I’m Chancelor Roberts
 - 🌱 I’m currently learning geophysics at SIO/IGPP
 - 📫 How to reach me ccroberts@ucsd.edu
 
